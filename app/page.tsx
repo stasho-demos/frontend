@@ -25,8 +25,8 @@ const routes = [
   },
   {
     name: "Wasdale Head to Black Sail",
-    distance: "7.8 km",
-    ascent: "395 m",
+    distance: "8.0 km",
+    ascent: "410 m",
     grade: "Moderate",
   },
 ];

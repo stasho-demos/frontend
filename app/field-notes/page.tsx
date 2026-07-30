@@ -7,6 +7,11 @@ export const metadata: Metadata = {
 
 const notes = [
   {
+    date: "2026-07-30",
+    title: "Wasdale Head reroutes around the Black Sail slip",
+    body: "A scree slip took out about sixty metres of the direct line below the col. The detour adds fifteen minutes and one easy stream crossing; distance and ascent on the card now include it. Old line is still walkable but loose underfoot, not recommended after rain.",
+  },
+  {
     date: "2026-07-12",
     title: "The Carrock cairn has moved again",
     body: "Third time in two years. It now sits about forty metres north of where the card says, which matters in cloud. Card updated, old position left in the text so nobody thinks they are lost.",
